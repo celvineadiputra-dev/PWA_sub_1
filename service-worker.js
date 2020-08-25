@@ -12,6 +12,7 @@ var urlsToCache = [
     "/Pages/frontend.html",
     "/Pages/uiux.html",
     "/Components/menu.html",
+    "/Images/silat.png",
 ];
 
 self.addEventListener("install", function (event) {
