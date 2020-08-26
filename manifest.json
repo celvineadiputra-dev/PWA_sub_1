@@ -1,11 +1,11 @@
 {
-    "name": "My First PWA",
-    "short_name": "My PWA",
-    "description": "Aplikasi PWA pertama saya",
-    "start_url": "/index.html",
-    "display": "standalone",
-    "background_color": "#00897B",
-    "theme_color": "#00897B",
+    "name": "Silat Coding",
+    "short_name": "Silat Coding",
+    "theme_color": "#4527a0",
+    "background_color": "#4527a0",
+    "display": "fullscreen",
+    "scope": "/",
+    "start_url": "/",
     "icons": [
         {
             "src": "images/silat.png",

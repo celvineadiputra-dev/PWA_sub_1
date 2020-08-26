@@ -7,7 +7,21 @@ nav .sidenav-trigger {
 .flex.justify-content-center {
     justify-content: center;
 }
-
+.flex.justify-content-end {
+    justify-content: flex-end;
+}
 .mt-5 {
-    margin-top: 2rem;
+    margin-top: 2rem !important;
+}
+.card .card-title {
+    font-weight: bold !important;
+}
+.card .card-image img {
+    min-height: 255px;
+}
+button.btn,
+a.btn {
+    background-color: #651fff !important;
+    box-shadow: #b9b1ff 0px 1px 4px 2px;
+    border-radius: 4px;
 }

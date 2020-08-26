@@ -1,4 +1,4 @@
-const CACHE_NAME = "Silat Codingv-10";
+const CACHE_NAME = "Silat Codingv-4";
 var urlsToCache = [
     "/",
     "/css/Main.css",
@@ -13,6 +13,11 @@ var urlsToCache = [
     "/Pages/uiux.html",
     "/Components/menu.html",
     "/Images/silat.png",
+    "/Images/bs_bg.jpeg",
+    "/Images/css_bg.jpg",
+    "/Images/sass_bg.jpg",
+    "https://fonts.googleapis.com/icon?family=Material+Icons",
+    "https://fonts.gstatic.com/s/materialicons/v55/flUhRq6tzZclQEJ-Vdg-IuiaDsNc.woff2",
 ];
 
 self.addEventListener("install", function (event) {
