@@ -10,14 +10,21 @@ var urlsToCache = [
     "/Pages/home.html",
     "/Pages/backend.html",
     "/Pages/frontend.html",
-    "/Pages/uiux.html",
+    "/Pages/About.html",
     "/Components/menu.html",
     "/Images/silat.png",
     "/Images/bs_bg.jpeg",
     "/Images/css_bg.jpg",
     "/Images/sass_bg.jpg",
-    "https://fonts.googleapis.com/icon?family=Material+Icons",
-    "https://fonts.gstatic.com/s/materialicons/v55/flUhRq6tzZclQEJ-Vdg-IuiaDsNc.woff2",
+    "/Images/arrow_down.svg",
+    "/Images/x_square.svg",
+    "/Images/react.jpg",
+    "/Images/vue.png",
+    "/Images/node.png",
+    "/Images/pwa.png",
+    "/Images/angular.webp",
+    "/Images/bs.png",
+    "/Fonts/MA.woff2"
 ];
 
 self.addEventListener("install", function (event) {
