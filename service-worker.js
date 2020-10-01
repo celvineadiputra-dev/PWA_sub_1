@@ -1,4 +1,4 @@
-const CACHE_NAME = "Silat Codingv-6";
+const CACHE_NAME = "Silat Codingv-9";
 var urlsToCache = [
     "/",
     "/css/Main.css",
@@ -9,7 +9,7 @@ var urlsToCache = [
     "/Js/Helper/PageLoad.js",
     "/Pages/home.html",
     "/Pages/backend.html",
-    "/Pages/frontend.html",
+    "/Pages/Price.html",
     "/Pages/About.html",
     "/Components/menu.html",
     "/Images/silat.png",
