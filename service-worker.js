@@ -8,7 +8,7 @@ var urlsToCache = [
     "/Js/Helper/ComponentLoad.js",
     "/Js/Helper/PageLoad.js",
     "/Pages/home.html",
-    "/Pages/backend.html",
+    "/Pages/Build.html",
     "/Pages/Price.html",
     "/Pages/About.html",
     "/Components/menu.html",
@@ -23,8 +23,11 @@ var urlsToCache = [
     "/Images/node.png",
     "/Images/pwa.png",
     "/Images/angular.webp",
+    "/Images/deno.png",
+    "/Images/svelte.png",
+    "/Images/grapql.png",
     "/Images/bs.png",
-    "/Fonts/MA.woff2"
+    "/Fonts/MA.woff2",
 ];
 
 self.addEventListener("install", function (event) {
