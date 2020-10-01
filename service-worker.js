@@ -1,4 +1,4 @@
-const CACHE_NAME = "Silat Codingv-9";
+const CACHE_NAME = "Silat Codingv-10";
 var urlsToCache = [
     "/",
     "/css/Main.css",
