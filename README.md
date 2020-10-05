@@ -10,5 +10,6 @@ Submission ini mendapatkan <b>bintang 3</b> dari reviewer dicoding
 jika terdapat pelanggaran hakcipta pada gambar yang saya ambil saya mohon maaf sekali
 karena asset disini hanya digunakan untuk pembelajaran saja, Terimakasih
 
+<br/>
 Salama, dari Palembang
 Celvine Adi Putra, 02 Oktober 2020
