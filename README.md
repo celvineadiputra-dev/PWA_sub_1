@@ -11,5 +11,6 @@ jika terdapat pelanggaran hakcipta pada gambar yang saya ambil saya mohon maaf s
 karena asset disini hanya digunakan untuk pembelajaran saja, Terimakasih
 
 <br/>
+<hr>
 Salama, dari Palembang
 Celvine Adi Putra, 02 Oktober 2020
