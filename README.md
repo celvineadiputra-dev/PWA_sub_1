@@ -12,5 +12,5 @@ karena asset disini hanya digunakan untuk pembelajaran saja, Terimakasih
 
 <br/>
 <hr>
-Salama, dari Palembang
+Salam, dari Palembang
 Celvine Adi Putra, 02 Oktober 2020
