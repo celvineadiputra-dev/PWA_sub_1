@@ -2,7 +2,7 @@
 File ini adalah hasil saya dalam submission 1 dicoding
 silahkan dijadikan reverensi untuk submission kamu
 
-Submission ini mendapatkan <b>bintang 3</b> dari reviewer dicoding
+Submission ini mendapatkan <b>bintang 3 ⭐/ 5 ⭐</b> dari reviewer dicoding
 
 <a href="https://pwame.netlify.app/">Demo</a>
 
